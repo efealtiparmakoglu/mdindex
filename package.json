@@ -1,0 +1,8 @@
+{
+  "name": "mdindex",
+  "version": "1.0.0",
+  "description": "Markdown TOC generator with GitHub-compatible anchors, zero dependencies",
+  "license": "MIT",
+  "bin": { "mdindex": "src/mdindex.js" },
+  "scripts": { "test": "node --test tests/" }
+}
